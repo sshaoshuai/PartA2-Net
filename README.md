@@ -1,6 +1,6 @@
 # From Points to Parts: 3D Object Detection from Point Cloud with Part-aware and Part-aggregation Network
 
-This repository is the PyTorch implementation of our TPAMI paper [[arXiv]](https://arxiv.org/abs/1907.03670).
+This repository is for our TPAMI paper [[arXiv]](https://arxiv.org/abs/1907.03670), please find  [[PointCloudDet3D]](https://github.com/sshaoshuai/PointCloudDet3D) for the official PyTorch implementation of our `Part-A^2 net`.
 
 **Authors**: [Shaoshuai Shi](https://sshaoshuai.github.io/), [Zhe Wang](https://wang-zhe.me/), [Jianping Shi](http://shijianping.me/), [Xiaogang Wang](http://www.ee.cuhk.edu.hk/~xgwang/), [Hongsheng Li](http://www.ee.cuhk.edu.hk/~hsli/).
 
@@ -13,7 +13,7 @@ At the time of submission (July-9 2019), our PartA2-Net outperforms all existing
 ![teaser](https://sshaoshuai.github.io/content/images/PartA2_v2.png)
 
 ## Code
-The code will be released soon.
+The code of `Part-A^2` has been released on [PointCloudDet3D](https://github.com/sshaoshuai/PointCloudDet3D).
 
 ## Citation
 If you find this work useful in your research, please consider cite:
