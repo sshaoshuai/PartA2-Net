@@ -2,7 +2,7 @@
 
 This repository is for our TPAMI paper [[arXiv]](https://arxiv.org/abs/1907.03670).
 
-Code is available at [[PointCloudDet3D]](https://github.com/sshaoshuai/PointCloudDet3D).
+Code is available at [[PCDet]](https://github.com/sshaoshuai/PCDet).
 
 **Authors**: [Shaoshuai Shi](https://sshaoshuai.github.io/), [Zhe Wang](https://wang-zhe.me/), [Jianping Shi](http://shijianping.me/), [Xiaogang Wang](http://www.ee.cuhk.edu.hk/~xgwang/), [Hongsheng Li](http://www.ee.cuhk.edu.hk/~hsli/).
 
@@ -15,7 +15,7 @@ At the time of submission (July-9 2019), our PartA2-Net outperforms all existing
 ![teaser](https://sshaoshuai.github.io/content/images/PartA2_v2.png)
 
 ## Code
-The code of `Part-A^2` has been released on [PointCloudDet3D](https://github.com/sshaoshuai/PointCloudDet3D).
+The code of `Part-A^2` has been released on [PCDet](https://github.com/sshaoshuai/PCDet).
 
 ## Citation
 If you find this work useful in your research, please consider cite:
